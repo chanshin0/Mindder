@@ -1,5 +1,6 @@
 <img src ="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F30b605fd-d9cc-4f52-8d73-6210b40b0cff%2FUntitled.png?id=eafdd3c4-ee45-4aff-a075-1b5cc5b6d8ce&table=block&spaceId=fa16d34c-752f-4e68-befa-9e3aa9d11260&width=2000&userId=c238b7de-2cf9-40b3-b7eb-0d50dfa016c7&cache=v2">
 <div align="center">
+    <h2>SSAFY 8기 공통 프로젝트 우수상 'Mindder'</h2>
     <h3>😄 웃조 😄</h3>
     <p>⭐️ Platforms & Languages ⭐️</p>
 <div>
